@@ -3,7 +3,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_KEY"
 
 
 file_path = "C:\\Users\\DELL\\OneDrive - Hanoi University of Science and Technology\\Tài liệu\\Demo\\data.txt"

@@ -6,7 +6,7 @@ from langchain.schema import (
 from langchain.chat_models import ChatOpenAI
      
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_KEY"
 # temperature là độ ngẫu nhiên của câu trả lời, 
 chat = ChatOpenAI(model_name="gpt-3.5-turbo",temperature=0.3)
 messages = [

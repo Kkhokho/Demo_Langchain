@@ -3,7 +3,7 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate, FewShotPromptTemplate
 from langchain.chains import LLMChain
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_KEY"
 # Text model example
 
 llm = OpenAI(temperature=0.3)

@@ -7,7 +7,7 @@ from langchain.vectorstores import FAISS
 import os
 
 # Set your OpenAI API key here
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_KEY"
 
 # Import prompt and define PromptTemplate
 

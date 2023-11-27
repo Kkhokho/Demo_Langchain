@@ -5,7 +5,7 @@ from langchain.agents import tool
 
 from langchain.agents import initialize_agent, AgentType
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_KEY"
 
 llm = OpenAI(temperature=0.3)
 
@@ -19,7 +19,7 @@ def search(query: str) -> str:
     return f"Search API Results for {query}"
 
 
-tools = [search, post_recommendation]
+tools = [search]
 
 agent = initialize_agent(
     tools,
