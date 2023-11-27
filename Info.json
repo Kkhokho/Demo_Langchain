@@ -1,0 +1,13 @@
+{
+    "input_variables": [
+        "name",
+        "name_place"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "\n    Search exactly price, current owner, creator information for {name} NFTs on {name_place} marketplace.\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

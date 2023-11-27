@@ -1,0 +1,49 @@
+Variants exist, aiming to force the learned representations to assume useful properties.[3] Examples are regularized autoencoders (Sparse, Denoising and Contractive), which are effective in learning representations for subsequent classification tasks,[4] and Variational autoencoders, with applications as generative models.[5] Autoencoders are applied to many problems, including facial recognition,[6] feature detection,[7] anomaly detection and acquiring the meaning of words.[8][9] Autoencoders are also generative models which can randomly generate new data that is similar to the input data (training data).[7]
+1
+Thể thaoNgoại hạng AnhTin tứcThứ hai, 27/11/2023, 11:53 (GMT+7)
+Hai sao tuổi teen nhận điểm cao nhất trận Everton - Man Utd
+ANHAlejandro Garnacho và Kobbie Mainoo đều nhận điểm cao nhất sau trận Man Utd thắng 3-0 trên sân của Everton.
+Tờ Sun chấm điểm 8, điểm cao nhất trận, cho Garnacho, Mainoo, Anthony Martial và Andre Onana. Tờ báo đánh giá cú vô lê cắt kéo của Garnacho, tiền đạo cánh 19 tuổi đá chính cho Man Utd, là bàn đẹp nhất mùa. "Nó sẽ sống mãi trong ký ức CĐV", tác giả viết thêm.
+
+Với Mainoo, Sun đánh giá cao khả năng kiểm soát, cung cấp bóng và pha cản phá trong hiệp một. Trong bối cảnh Man Utd đang khủng hoảng lực lượng, tờ báo cho rằng tiền vệ 18 tuổi sẽ là sự bổ sung cần thiết cho hàng tiền vệ.
+1
+Thể thaoNgoại hạng AnhTin tứcThứ hai, 27/11/2023, 11:53 (GMT+7)
+Hai sao tuổi teen nhận điểm cao nhất trận Everton - Man Utd
+ANHAlejandro Garnacho và Kobbie Mainoo đều nhận điểm cao nhất sau trận Man Utd thắng 3-0 trên sân của Everton.
+
+EvertonMan Utd
+Chủ nhật, ngày 26/11/2023, 23:30
+Ngoại hạng Anh - Vòng 13
+Kết thúc
+Everton
+Everton
+0 - 3
+Hiệp một: 0-1
+Man Utd
+Man Utd
+A. Garnacho (3')
+icon-ball
+M. Rashford (56')
+ - Penalty
+icon-ball
+A. Martial (75')
+icon-ball
+Chi tiết trận đấu
+Tờ Sun chấm điểm 8, điểm cao nhất trận, cho Garnacho, Mainoo, Anthony Martial và Andre Onana. Tờ báo đánh giá cú vô lê cắt kéo của Garnacho, tiền đạo cánh 19 tuổi đá chính cho Man Utd, là bàn đẹp nhất mùa. "Nó sẽ sống mãi trong ký ức CĐV", tác giả viết thêm.
+
+Với Mainoo, Sun đánh giá cao khả năng kiểm soát, cung cấp bóng và pha cản phá trong hiệp một. Trong bối cảnh Man Utd đang khủng hoảng lực lượng, tờ báo cho rằng tiền vệ 18 tuổi sẽ là sự bổ sung cần thiết cho hàng tiền vệ.
+
+Mainoo ngăn một đường chuyền của Jack Harrison trong trận Man Utd thắng Everton 3-0. Ảnh: Reuters
+Mainoo ngăn một đường chuyền của Jack Harrison trong trận Man Utd thắng Everton 3-0. Ảnh: Reuters
+
+Về Martial, Sun đánh giá cú lốp bóng qua thủ môn ấn định chiến thắng 3-0 ở phút 75 là một pha dứt điểm xuất sắc. Tờ báo cho rằng với bàn này, tiền đạo người Pháp đã đưa Man Utd vượt qua sự nghi ngờ để tiến tới chiến thắng.
+
+Ở vị trí thủ môn, Sun đánh giá Onana đã có một số pha cứu thua xuất sắc và mang đến sự tự tin trong các tình huống chống đá phạt. "Trận đấu này có thể là bước ngoặt trong sự nghiệp của Onana", bài báo có đoạn.
+
+Sun chấm điểm 7 cho Marcus Rashford, tác giả quả phạt đền nâng tỷ số lên 2-0, và tiền vệ đội trưởng Bruno Fernandes. Tờ báo cho rằng Fernandes đã hoàn thành tốt vai trò chuyển đổi bóng, điều mà HLV Erik Ten Hag cần từ đầu mùa. Sun chấm điểm 6 cho hầu hết các cầu thủ còn lại của Man Utd. Aaron Wan-Bissaka và Hannibal Mejbri vào sân muộn và không được chấm điểm.
+
+Tối 26/11, Man Utd có trận đầu tiên thắng cách biệt nhiều hơn một bàn từ đầu mùa. Ngay phút thứ ba, sau quả tạt của Diogo Dalot, Garnacho bật cao vô lê cắt kéo mở tỷ số. Sau khởi đầu thuận lợi, Man Utd gặp không ít khó khăn trước sức tấn công của Everton. Tuy nhiên, thủ môn Onana và hàng thủ vẫn đứng vững.
+Phút 52, sau pha phạm lỗi của Ashley Young đối với Martial, trọng tài cho Man Utd hưởng phạt đền. Rashford thực hiện chính xác quả phạt nâng tỷ số lên 2-0. Đến phút 75, sau đường chuyền của Fernandes, Martial lốp bóng qua thủ môn ấn định chiến thắng 3-0.
+
+Sau trận thắng Everton, Man Utd trở lại vị trí thứ sáu Ngoại hạng Anh. "Quỷ Đỏ" đang có 24 điểm, chỉ kém đội xếp thứ tư Aston Villa bốn điểm. Newcastle và Brighton đang xếp ngay sau Man Utd, với 23 và 22 điểm.
+An autoencoder is a type of artificial neural network used to learn efficient codings of unlabeled data (unsupervised learning).[1][2] An autoencoder learns two functions: an encoding function that transforms the input data, and a decoding function that recreates the input data from the encoded representation. The autoencoder learns an efficient representation (encoding) for a set of data, typically for dimensionality reduction.
